@@ -1,0 +1,11 @@
+{
+ "이름": "운동장",
+ "version": "1.0.0",
+ "desc 설명": "
+ "main": "index.js",
+ "scripts": {
+ "test": "test"
+ },
+ "저자": "
+ "라이선스": "ISC"
+}
